@@ -1,12 +1,10 @@
 # Fuel-Consumption-and-CO2-Emissions-in-Shipping
 Fuel Consumption and CO2 Emissions in Shipping(Power BI and MySQL)
 
-##Project Overview
-
+## Project Overview 
 This project focuses on analyzing fuel consumption and CO2 emissions in the maritime transportation industry. Using SQL queries for data analysis and Power BI dashboards for visualization, the project provides actionable insights into ship efficiency, emissions trends, and fleet distribution.
 
-##Tools & Technologies
-
+## Tools & Technologies
 SQL (MySQL) – Data extraction, transformation, and analysis
 Power BI – Data visualization and Report creation
 Dataset – Ship fuel consumption, CO2 emissions, ship type, route, engine efficiency, and time (month)
